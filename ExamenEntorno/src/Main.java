@@ -5,6 +5,7 @@ public class Main {
 		// Pregunta 2 Examen Entornos
 		
 		System.out.println("Hola me llamo Jorge");
+		System.out.println("Hasta luego");
 
 	}
 
